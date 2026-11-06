@@ -1,0 +1,67 @@
+{
+  "collected_at": "2026-11-06 14:29:01",
+  "system": {
+    "hostname": "WIN-TJGLN343PHF",
+    "os": "Windows",
+    "os_version": "10.0.19045",
+    "architecture": "AMD64",
+    "boot_time": "2026-11-05 12:34"
+  },
+  "cpu": {
+    "model": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+    "physical_cores": 6,
+    "logical_cores": 6,
+    "max_freq_mhz": 3593,
+    "load_percent": 14.6
+  },
+  "memory": {
+    "total_gb": 15.9,
+    "used_percent": 48.2,
+    "available_gb": 8.3
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fs": "NTFS",
+      "total_gb": 931.4,
+      "used_percent": 23.7
+    },
+    {
+      "device": "D:\\",
+      "mountpoint": "D:\\",
+      "fs": "NTFS",
+      "total_gb": 447.1,
+      "used_percent": 61.1
+    }
+  ],
+  "network": [
+    {
+      "name": "Ethernet",
+      "ipv4": "169.254.190.63",
+      "netmask": "255.255.0.0",
+      "mac": "18-C0-4D-67-42-6E"
+    },
+    {
+      "name": "Ethernet 2",
+      "ipv4": "192.168.56.1",
+      "netmask": "255.255.255.0",
+      "mac": "0A-00-27-00-00-1F"
+    },
+    {
+      "name": "Беспроводная сеть",
+      "ipv4": "192.168.8.64",
+      "netmask": "255.255.255.0",
+      "mac": "90-DE-80-53-B3-6B"
+    },
+    {
+      "name": "Loopback Pseudo-Interface 1",
+      "ipv4": "127.0.0.1",
+      "netmask": "255.0.0.0",
+      "mac": null
+    }
+  ],
+  "recommendations": [
+    "Рекомендуется следить за свободным местом на D:\\"
+  ]
+}
